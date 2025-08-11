@@ -11,7 +11,16 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }， {
+            "key": "港迷",
+            "name": "💯hongkong┃粤语",
+            "type": 3,
+            "api": "csp_AppSK",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
+        }，
         {
             "key": "豆",
             "name": "【飯太硬热播推荐】",
@@ -82,7 +91,7 @@
                 "from": "4k|auto",
                 "pturl": "http://tv.91muou.icu/|http://54271.fun/|http://mo.muouso.fun/"
             }
-        },
+        }，
         {
             "key": "原创",
             "name": "☀原创┃不卡",
@@ -93,7 +102,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "苹果",
             "name": "🍎苹果┃不卡",
@@ -102,7 +111,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "厂长",
             "name": "📔厂长┃不卡",
@@ -113,7 +122,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.czzyvideo.com/"
-        },
+        }，
         {
             "key": "糯米",
             "name": "🍓糯米┃秒播",
@@ -122,7 +131,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "白白",
             "name": "🐟白白┃秒播",
@@ -132,7 +141,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "神车",
             "name": "🚎神车┃秒播",
@@ -142,7 +151,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
-        },
+        }，
         {
             "key": "Lib",
             "name": "🌟立播┃秒播",
@@ -155,7 +164,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
-        },
+        }，
         {
             "key": "zxzj",
             "name": "🍊在线┃秒播",
@@ -196,16 +205,7 @@
             "quickSearch": 1,
             "changeable": 1
         }，
-        {
-            "key": "港迷",
-            "name": "💯港迷┃粤语",
-            "type": 3,
-            "api": "csp_AppSK",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"
-        }，
+       
         {
             "key": "木星",
             "name": "🌞木星┃多线",
@@ -236,7 +236,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
-        },
+        }，
         {
             "key": "萌米",
             "name": "👀萌米┃多线",
@@ -268,7 +268,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "贱贱",
             "name": "🐭荐片┃P2P",
@@ -306,7 +306,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "Anime1",
             "name": "🐾日本┃动漫",
@@ -315,7 +315,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },
+        }，
         {
             "key": "926",
             "name": "⚽926┃看球",
@@ -326,7 +326,7 @@
             "style": {
                 "type": "list"
             }
-        },
+        }，
         {
             "key": "88",
             "name": "⚽88┃看球",
@@ -337,7 +337,7 @@
             "style": {
                 "type": "list"
             }
-        },
+        }，
         {
             "key": "看球",
             "name": "⚽看球┃直播",
@@ -348,7 +348,7 @@
             "style": {
                 "type": "list"
             }
-        },
+        }，
         {
             "key": "Jrsjs",
             "name": "⚽ Jrs┃球迷",
@@ -371,11 +371,11 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
+            }，
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
-        },
+        }，
         {
             "key": "MTV",
             "name": "🎧明星┃MV",
@@ -384,14 +384,14 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
+            }，
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
                 "json": "./json/MTV.json"
             }
-        },
+        }，
         {
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
@@ -401,12 +401,12 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.755
-            },
+            }，
             "playerType": "2",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
-        },
+        }，
         {
             "key": "斗鱼js",
             "name": "🐟斗鱼┃直播",
@@ -416,7 +416,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.755
-            },
+            }，
             "playerType": "2",
             "searchable": 0,
             "quickSearch": 0,
@@ -514,7 +514,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
-        },
+        }，
         {
             "key": "Aliso",
             "name": "🙀盘搜┃阿狸",
@@ -527,7 +527,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
-        },
+        }，
         {
             "key": "YiSo",
             "name": "😹易搜┃阿狸",
@@ -540,7 +540,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
-        },
+        }，
         {
             "key": "push_agent",
             "name": "🛴手机┃推送",
@@ -552,7 +552,7 @@
                 "Cloud-drive": "tvfan/Cloud-drive.txt",
                 "from": "4k|auto"
             }
-        },
+        }，
         {
             "key": "Bili",
             "name": "🅱哔哔合集┃弹幕",
@@ -561,14 +561,14 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
+            }，
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
             }
-        },
+        }，
         {
             "key": "Biliych",
             "name": "🅱哔哔演唱会┃弹幕",
@@ -577,14 +577,14 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
+            }，
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
             }
-        },
+        }，
         {
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
@@ -594,11 +594,11 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
+            }，
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
-        },
+        }，
         {
             "key": "少儿教育",
             "name": "📚少儿┃教育",
@@ -607,14 +607,14 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
+            }，
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
             }
-        },
+        }，
         {
             "key": "小学课堂",
             "name": "📚小学┃课堂",
@@ -623,14 +623,14 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
+            }，
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
             }
-        },
+        }，
         {
             "key": "初中课堂",
             "name": "📚初中┃课堂",
@@ -639,7 +639,7 @@
             "style": {
                 "type": "rect",
                 "ratio": 1.597
-            },
+            }，
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
