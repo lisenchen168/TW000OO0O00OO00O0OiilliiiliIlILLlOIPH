@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆",
-            "name": "【飯太硬热播推荐】",
+            "name": "【   热播推荐】",
             "type": 3,
             "api": "csp_DouDou",
             "indexs": 1,
