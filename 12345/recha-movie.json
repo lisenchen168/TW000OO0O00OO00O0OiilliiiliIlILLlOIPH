@@ -3,63 +3,9 @@
   "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
   "wallpaper": "https://tv.nxog.top/m//t/",
   "sites": [
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    {
-      "key": "豆瓣",
-      "name": "🇹🇼｜熱播排行榜｜自動切換",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "./jar/pg.jar;md5;3d7366987f27631444e98cde17418a57",
-      "ext": "./json/douban.json",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1
-    },
-    {
-      "key": "豆瓣2",
-      "name": "🇹🇼｜點播搜索｜可選站",
-      "type": 3,
-      "api": "csp_Douban",
-      "jar": "./jar/pg.jar;md5;3d7366987f27631444e98cde17418a57",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 1,
-      "ext": "./lib/tokenm.json$$$./lib/douban.json"
-    },
-    {
-      "key": "网盘配置",
-      "name": "🇹🇼｜Youtube、网盘、弹幕配置",
-      "type": 3,
-      "jar": "./jar/pg.jar;md5;3d7366987f27631444e98cde17418a57",
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "./json/tokenm.json",
-      "style": {"type": "rect", "ratio": 1.5}
-    },
     {
       "key": "Youtube",
-      "name": "🇹🇼｜Youtube",
+      "name": 高清｜Youtube",
       "type": 3,
       "api": "csp_Youtube",
       "jar": "./jar/pg.jar;md5;3d7366987f27631444e98cde17418a57",
@@ -6412,4 +6358,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
+
 }
