@@ -1,6 +1,6 @@
 {
   "spider": "./jar/moyu-0530.php;md5;0a9c6b44a20445a9b3c2a39763ef7cf1",
-  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
+  "logo": "https://raw.githubusercontent.com/lisenchen168/sshuahua/refs/heads/main/1752040338940.gif",
   "wallpaper": "https://tv.nxog.top/m//t/",
   "sites": [{
       "key": "黑木影视",
@@ -11,7 +11,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    }， {
+    },{
       "key": "vod_黑木耳克隆"，
       "name": "🧲｜黑隆｜高清◎秒播(各種廣告)",
       "type": 4,
@@ -39,7 +39,7 @@
         "复仇短剧" , "穿越短剧" , "甜宠短剧" , "强者短剧" , "欧美动漫" , "日本动漫" , "韩国动漫" , "国产动漫" ,
         "港台动漫"
       ]
-    }, {
+    },{
       "key": "仓鼠",
       "name": "🏆｜錢鼠｜藍光◎秒播(無廣告+APP)",
       "jar": "./jar/moyuer.php;md5;2d5e6b5456c7cae497af11938df2662d",
@@ -6360,4 +6360,5 @@
   ]
 
 }
+
 
