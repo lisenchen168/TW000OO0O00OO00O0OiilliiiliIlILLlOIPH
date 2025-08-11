@@ -657,7 +657,7 @@
         },
         {
             "key": "wx",
-            "name": "公众号：神秘的哥哥们",
+            "name": "开心好：神秘的哥哥们",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -666,7 +666,7 @@
         },
         {
             "key": "fan",
-            "name": "导航 www.饭太硬.com",
+            "name": "导航 www.又累了.com",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
