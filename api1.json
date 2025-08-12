@@ -136,16 +136,7 @@
       "quickSearch": 0,
       "changeable": 1
     },
-    {
-      "key": "采集集合go",
-      "name": "🧲｜采集集合｜高清◎順播(浮水印廣告)",
-      "type": 1,
-      "api": "http://zhangqun1818.serv00.net:5053",
-      "searchable": 1,
-      "style": {"type": "rect"， "ratio": 1.33},
-      "quickSearch": 0,
-      "changeable": 1
-    },
+    
     {
       "key": "QD4K",
       "name": "🧲｜快看｜高清◎秒播(全版廣告)",
@@ -1003,6 +994,7 @@
   ]
 
 }
+
 
 
 
