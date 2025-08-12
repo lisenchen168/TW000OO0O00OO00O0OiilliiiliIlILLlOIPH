@@ -456,7 +456,7 @@
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/jie20091116/123/refs/heads/main/jar/mi-0513.txt;md5;bcb27d2740df8d21bfc49c507432663a",
       "playerType": 2,
       "ext": "http://172.83.156.150:1010/api.php/app/"
-    },
+    }，
     {
       "key": "vod_索隆",
       "name": "🧲｜索隆｜高清◎秒播(浮水印廣告)",
@@ -1302,6 +1302,7 @@
   ]
 
 }
+
 
 
 
