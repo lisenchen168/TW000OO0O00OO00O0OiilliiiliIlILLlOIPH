@@ -119,18 +119,6 @@
       }
     },
     {
-      "key": "py_文才",
-      "name": "🏆｜鬼牌｜藍光◎秒播(無廣告)",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/jie20091116/123/refs/heads/main/py/文才影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
-      }
-    }，
-    {
       "key": "py_金牌.py",
       "name": "🏆｜金牌｜高清◎秒播(無廣告)",
       "type": 3,
@@ -1375,3 +1363,4 @@
   ]
 
 }
+
