@@ -1,6 +1,6 @@
 {
   "spider": "https://ghproxy.net/https://raw.githubusercontent.com/jie20091116/123/refs/heads/main/jar/moyu-0530.php;md5;0a9c6b44a20445a9b3c2a39763ef7cf1",
-  "logo": "https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-i-0813_6e2553f5708c414386eeca88b5f2674a~c5_300x300.jpeg?from=2956013662",
+  "logo": "https://raw.githubusercontent.com/lisenchen168/sshuahua/refs/heads/main/1752040338940.gif",
   "wallpaper": "https://tv.nxog.top/m//t/",
   "sites": [{
       "key": "橘猫",
@@ -506,7 +506,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }，
     {
       "key": "vod_飘零",
       "name": "🧲｜飘零｜高清◎秒播(浮水印廣告)",
@@ -516,10 +516,10 @@
       "quickSearch": 1,
       "categories": [
         "电影"  , "连续剧" , "综艺"  , "动漫"  , "动作片" , "电影"  , "喜剧片" , "爱情片" , "科幻片" ,
-        "恐怖片" , "剧情片" , "战争片" , "国产剧" , "香港剧" , "台湾剧" , "日本剧" , "韩国剧" , "欧美剧" ,
+        "恐怖片" ， "剧情片" , "战争片" , "国产剧" , "香港剧" , "台湾剧" , "日本剧" , "韩国剧" , "欧美剧" ,
         "海外剧" , "纪录片" , "动漫电影", "邵氏大片"
       ]
-    },
+    }，
     {
       "key": "vod_索隆",
       "name": "🧲｜索隆｜高清◎秒播(浮水印廣告)",
@@ -529,16 +529,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }，
     {
       "key": "vod_OK",
       "name": "🧲｜ＯＫ｜高清◎秒播(跑馬燈廣告)",
-      "type": 1,
-      "api": "https://api.okzy.org/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
+      "type": 1，
+      "api": "https://api.okzy.org/api.php/provide/vod/"，
+      "searchable": 1，
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
     {
       "key": "vod_魔都",
       "name": "🧲｜魔都｜高清◎秒播(浮水印廣告+成人動畫)",
@@ -555,9 +555,9 @@
       "type": 1,
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 1，
       "filterable": 1
-    },
+    }，
     {
       "key": "非凡采集资源",
       "name": "🧲｜非凡｜高清◎速播(賭城廣告+成人)",
@@ -571,7 +571,7 @@
       "key": "量子采集资源",
       "name": "🧲｜量子｜高清◎秒播(賭城廣告+成人)",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/"，
       "playerType": 1,
       "searchable": 1,
       "changeable": 1
@@ -593,7 +593,7 @@
       "playerType": 1,
       "searchable": 1,
       "changeable": 1
-    },
+    }，
     {
       "key": "九零采集资源",
       "name": "🧲｜九零｜高清◎秒播(賭城廣告)",
@@ -622,7 +622,7 @@
       "quickSearch": 1,
       "categories": [
         "动作片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "犯罪片" , "战争片" , "剧情片" , "动画电影",
-        "国产剧" , "港台剧" , "日韩剧" , "欧美剧" , "海外剧" , "网红主播", "日韩综艺", "港台综艺", "欧美综艺",
+        "国产剧" ， "港台剧" , "日韩剧" , "欧美剧" , "海外剧" , "网红主播", "日韩综艺", "港台综艺", "欧美综艺",
         "大陆综艺", "国产动漫", "日韩动漫", "欧美动漫", "海外动漫", "海外抖音", "影视解说", "直播"
       ]
     },
@@ -651,12 +651,12 @@
       "quickSearch": 1,
       "filterable": 1,
       "categories": [
-        "动作片" , "动画片" , "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "悬疑片" ,
-        "犯罪片" , "奇幻片" , "邵氏电影", "纪录片" , "短剧"  , "国产剧" , "香港剧" , "台湾剧" , "日本剧" ,
-        "韩国剧" , "美国剧" , "泰剧"  , "海外剧" , "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫",
-        "日韩动漫", "欧美动漫", "影视解说", "体育赛事"
+        "动作片" ， "动画片" ， "喜剧片" , "爱情片" , "科幻片" , "恐怖片" , "剧情片" , "战争片" , "悬疑片" ,
+        "犯罪片" ， "奇幻片" ， "邵氏电影", "纪录片" , "短剧"  , "国产剧" , "香港剧" , "台湾剧" , "日本剧" ,
+        "韩国剧" ， "美国剧" , "泰剧"  , "海外剧" , "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫",
+        "日韩动漫"， "欧美动漫", "影视解说", "体育赛事"
       ]
-    },
+    }，
     {
       "key": "vod_优酷",
       "name": "🧲｜優酷｜普清◎秒播(浮水印廣告)",
@@ -674,7 +674,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }，
     {
       "key": "vod_红牛",
       "name": "🧲｜红牛｜高清◎秒播(浮水印廣告)",
@@ -683,7 +683,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }，
     {
       "key": "vod_最大",
       "name": "🧲｜最大｜高清◎順播(浮水印廣告)",
@@ -692,7 +692,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }，
     {
       "key": "vod_茅台",
       "name": "🧲｜茅台｜高清◎慢播(浮水印廣告)",
@@ -702,7 +702,7 @@
       "filterable": 1,
       "playUrl": "https://mtjiexi.cc:966/?url=",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/"
-    },
+    }，
     {
       "key": "vod_光速",
       "name": "🧲｜光速｜高清◎慢播(浮水印廣告)",
@@ -1232,59 +1232,59 @@
     {
       "name": "DNSWatch",
       "url": "https://resolver2.dns.watch/dns-query",
-      "ips": ["84.200.69.80", "84.200.70.40"]
-    },
+      "ips": ["84.200.69.80"， "84.200.70.40"]
+    }，
     {
       "name": "Quad9",
       "url": "https://dns.quad9.net/dns-quer",
-      "ips": ["9.9.9.9", "149.112.112.112"]
+      "ips": ["9.9.9.9"， "149.112.112.112"]
     }
-  ],
+  ]，
   "flags": [
-    "youku"   , "优酷"      , "优 酷"     , "优酷视频"    , "qq"      , "腾讯"      ,
-    "腾 讯"     , "腾讯视频"    , "iqiyi"   , "qiyi"    , "奇艺"      , "爱奇艺"     ,
-    "爱 奇 艺"   , "m1905"   , "xigua"   , "letv"    , "leshi"   , "乐视"      ,
-    "乐 视"     , "sohu"    , "搜狐"      , "搜 狐"     , "搜狐视频"    , "tudou"   ,
-    "pptv"    , "mgtv"    , "芒果"      , "imgo"    , "芒果TV"    , "芒 果 T V" ,
-    "bilibili", "哔 哩"     , "哔 哩 哔 哩"
+    "youku"   ， "优酷"      ， "优 酷"     , "优酷视频"    , "qq"      , "腾讯"      ,
+    "腾 讯"     ， "腾讯视频"    ， "iqiyi"   , "qiyi"    , "奇艺"      , "爱奇艺"     ,
+    "爱 奇 艺"   ， "m1905"   , "xigua"   , "letv"    , "leshi"   , "乐视"      ,
+    "乐 视"     ， "sohu"    ， "搜狐"      ， "搜 狐"     ， "搜狐视频"    ， "tudou"   ，
+    "pptv"    ， "mgtv"    ， "芒果"      ， "imgo"    ， "芒果TV"    ， "芒 果 T V" ，
+    "bilibili"， "哔 哩"     ， "哔 哩 哔 哩"
   ],
   "ijk": [
     {
       "group": "软解码",
       "options": [
-        {"category": 4, "name": "opensles", "value": "0"},
-        {"category": 4, "name": "overlay-format", "value": "842225234"},
-        {"category": 4, "name": "framedrop", "value": "1"},
-        {"category": 4, "name": "soundtouch", "value": "1"},
-        {"category": 4, "name": "start-on-prepared", "value": "1"},
+        {"category": 4， "name": "opensles", "value": "0"},
+        {"category": 4， "name": "overlay-format", "value": "842225234"},
+        {"category": 4， "name": "framedrop", "value": "1"},
+        {"category": 4， "name": "soundtouch", "value": "1"},
+        {"category": 4， "name": "start-on-prepared", "value": "1"},
         {"category": 1, "name": "http-detect-range-support", "value": "0"},
         {"category": 1, "name": "fflags", "value": "fastseek"},
         {"category": 2, "name": "skip_loop_filter", "value": "48"},
-        {"category": 4, "name": "reconnect", "value": "1"},
-        {"category": 4, "name": "enable-accurate-seek", "value": "0"},
-        {"category": 4, "name": "mediacodec", "value": "0"},
-        {"category": 4, "name": "mediacodec-auto-rotate", "value": "0"},
+        {"category": 4， "name": "reconnect", "value": "1"},
+        {"category": 4， "name": "enable-accurate-seek", "value": "0"},
+        {"category": 4， "name": "mediacodec", "value": "0"},
+        {"category": 4， "name": "mediacodec-auto-rotate", "value": "0"},
         {
-          "category": 4,
+          "category": 4，
           "name": "mediacodec-handle-resolution-change",
           "value": "0"
         },
-        {"category": 4, "name": "mediacodec-hevc", "value": "0"},
-        {"category": 1, "name": "dns_cache_timeout", "value": "600000000"}
+        {"category": 4， "name": "mediacodec-hevc", "value": "0"},
+        {"category": 1， "name": "dns_cache_timeout", "value": "600000000"}
       ]
-    },
+    }，
     {
       "group": "硬解码",
       "options": [
         {"category": 4, "name": "opensles", "value": "0"},
         {"category": 4, "name": "overlay-format", "value": "842225234"},
         {"category": 4, "name": "framedrop", "value": "1"},
-        {"category": 4, "name": "soundtouch", "value": "1"},
-        {"category": 4, "name": "start-on-prepared", "value": "1"},
-        {"category": 1, "name": "http-detect-range-support", "value": "0"},
-        {"category": 1, "name": "fflags", "value": "fastseek"},
-        {"category": 2, "name": "skip_loop_filter", "value": "48"},
-        {"category": 4, "name": "reconnect", "value": "1"},
+        {"category": 4， "name": "soundtouch", "value": "1"},
+        {"category": 4， "name": "start-on-prepared", "value": "1"},
+        {"category": 1， "name": "http-detect-range-support", "value": "0"},
+        {"category": 1， "name": "fflags", "value": "fastseek"},
+        {"category": 2， "name": "skip_loop_filter", "value": "48"},
+        {"category": 4， "name": "reconnect", "value": "1"},
         {"category": 4, "name": "enable-accurate-seek", "value": "0"},
         {"category": 4, "name": "mediacodec", "value": "1"},
         {"category": 4, "name": "mediacodec-auto-rotate", "value": "1"},
@@ -1292,79 +1292,80 @@
           "category": 4,
           "name": "mediacodec-handle-resolution-change",
           "value": "1"
-        },
-        {"category": 4, "name": "mediacodec-hevc", "value": "1"},
+        }，
+        {"category": 4， "name": "mediacodec-hevc", "value": "1"},
         {"category": 1, "name": "dns_cache_timeout", "value": "600000000"}
       ]
     }
-  ],
-  "notice": "你好！我是老王\n接口請珍惜勿轉發\n如果流出去就沒得用了",
+  ]，
+  "notice": "你好！请勿相信广告",
   "ads": [
     "ae01.alicdn.com",
     "c.cnzz.com",
     "cdn.bootcss.com",
-    "cdnjs.hnfenxun.com",
+    "cdnjs.hnfenxun.com"，
     "cms.qdwght.com",
-    "cnzz.mmstat.com",
-    "cnzz.hhttm.top",
-    "ehwe.yhdtns.com",
-    "f5w.as12df.top",
-    "hd.youyhn.com",
-    "hm.baidu.com",
-    "img.mosflower.cn",
+    "cnzz.mmstat.com"，
+    "cnzz.hhttm.top"，
+    "ehwe.yhdtns.com"，
+    "f5w.as12df.top"，
+    "hd.youyhn.com"，
+    "hm.baidu.com"，
+    "img.mosflower.cn"，
     "img.xunzhuo123.com",
-    "iqiyi.hbuioo.com",
-    "k.jinxiuzhilv.com",
-    "k.wudejia.com",
-    "mav.mavuz.com",
-    "mc.usihnbcq.cn",
-    "mg.g1mm3d.cn",
-    "mimg.0c1q0l.cn",
-    "mscs.svaeuzh.cn",
-    "ppl.xunzhuo123.com",
+    "iqiyi.hbuioo.com"，
+    "k.jinxiuzhilv.com"，
+    "k.wudejia.com"，
+    "mav.mavuz.com"，
+    "mc.usihnbcq.cn"，
+    "mg.g1mm3d.cn"，
+    "mimg.0c1q0l.cn"，
+    "mscs.svaeuzh.cn"，
+    "ppl.xunzhuo123.com"，
     "qiu.xixiqiu.com",
-    "q11.cnzz.com",
-    "s4.cnzz.com",
-    "s9.cnzz.com",
-    "s13.cnzz.com",
-    "s19.cnzz.com",
-    "s23.cnzz.com",
-    "s96.cnzz.com",
-    "sp.chemacid.cn",
+    "q11.cnzz.com"，
+    "s4.cnzz.com"，
+    "s9.cnzz.com"，
+    "s13.cnzz.com"，
+    "s19.cnzz.com"，
+    "s23.cnzz.com"，
+    "s96.cnzz.com"，
+    "sp.chemacid.cn"，
     "stj.v1vo.top",
-    "thy.dacedsfa.cn",
-    "tips.gamevvip.com",
-    "tj.tianwenhu.com",
-    "tp.vinuxhome.com",
-    "um.cavuc.com",
-    "vip.ffzyad.com",
-    "vivovip.mmszxc.top",
-    "wofwk.aoidf3.com",
+    "thy.dacedsfa.cn"，
+    "tips.gamevvip.com"，
+    "tj.tianwenhu.com"，
+    "tp.vinuxhome.com"，
+    "um.cavuc.com"，
+    "vip.ffzyad.com"，
+    "vivovip.mmszxc.top"，
+    "wofwk.aoidf3.com"，
     "www.92424.cn",
-    "www.baihuillq.com",
-    "www.googletagmanager.com",
-    "www.google-analytics.com",
-    "www.jixunkyy.cn",
-    "xc.hubeijieshikj.cn",
-    "xdn.cqqc3.com",
-    "xg.gars57.cn",
-    "xg.huataisangao.cn",
-    "xg.whsbpw.cn",
+    "www.baihuillq.com"，
+    "www.googletagmanager.com"，
+    "www.google-analytics.com"，
+    "www.jixunkyy.cn"，
+    "xc.hubeijieshikj.cn"，
+    "xdn.cqqc3.com"，
+    "xg.gars57.cn"，
+    "xg.huataisangao.cn"，
+    "xg.whsbpw.cn"，
     "xomk.jiangjunmh.top",
-    "z1.cnzz.com",
-    "z2.cnzz.com",
-    "z3.cnzz.com",
-    "z5.cnzz.com",
-    "z6.cnzz.com",
-    "z7.cnzz.com",
-    "z8.cnzz.com",
-    "wan.51img1.com",
-    "iqiyi.hbuioo.com",
-    "vip.ffzyad.com",
+    "z1.cnzz.com"，
+    "z2.cnzz.com"，
+    "z3.cnzz.com"，
+    "z5.cnzz.com"，
+    "z6.cnzz.com"，
+    "z7.cnzz.com"，
+    "z8.cnzz.com"，
+    "wan.51img1.com"，
+    "iqiyi.hbuioo.com"，
+    "vip.ffzyad.com"，
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 
 }
+
 
 
 
