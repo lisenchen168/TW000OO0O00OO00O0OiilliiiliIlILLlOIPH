@@ -74,69 +74,69 @@
         {
             "name": "Pornhub",
             "type": 3,
-            "api": "csp_pornhub",
+            "api": "csp_pornhub"，
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/pornhub.js"
-        },
+        }，
         {
             "name": "jable",
             "type": 3,
             "api": "csp_jable",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jable.js"
-        },
+        }，
         {
             "name": "花都影視",
             "type": 3,
             "api": "csp_hdys",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdys.js"
-        },
+        }，
         {
             "name": "肉视频",
             "type": 3,
             "api": "csp_rou",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/rou.js"
-        },
+        }，
         {
             "name": "Taiav",
             "type": 3,
             "api": "csp_Taiav",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/taiav.js"
-        },
+        }，
         {
             "name": "JavMove",
             "type": 3,
             "api": "csp_JavMove",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/javmove.js"
-        },
+        }，
         {
             "name": "有爱爱",
             "type": 3,
             "api": "csp_uaa",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/uua.js"
-        },
+        }，
         {
             "name": "AVDB",
             "type": 3,
             "api": "csp_avdb",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avdb.js"
-        },
+        }，
         {
             "name": "KanAV",
             "type": 3,
             "api": "csp_kanav",
             "ext": "https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/kanav.js"
-        },
+        }，
         {
             "name": "kbjfan",
             "type": 3,
             "api": "csp_kbjfan",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/kbjfan.js"
-        },
+        }，
         {
             "name": "twivideo",
             "type": 3,
             "api": "csp_twivideo",
             "ext": "https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/twivideo.js"
-        }，
+        },
     {
       "name": "360|点播",
       "type": 1,
