@@ -6,7 +6,7 @@ let appConfig = {
     ver: 1,
     title: 'pornhub',
     site: 'https://www.pornhub.com',
-    tabs: "categories/pornstar"[
+    tabs:[
         {
             name: 'home',
             ext: {
